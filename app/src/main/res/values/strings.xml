@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">proyecto_tesis</string>
+    <string name="todo">TODO</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+</resources>
